@@ -1,0 +1,14 @@
+C:\Users\nfrol\Desktop\Prog.sln\4practos\4practos\4practos\bin\Debug\net6.0\4practos.exe
+C:\Users\nfrol\Desktop\Prog.sln\4practos\4practos\4practos\bin\Debug\net6.0\4practos.deps.json
+C:\Users\nfrol\Desktop\Prog.sln\4practos\4practos\4practos\bin\Debug\net6.0\4practos.runtimeconfig.json
+C:\Users\nfrol\Desktop\Prog.sln\4practos\4practos\4practos\bin\Debug\net6.0\4practos.dll
+C:\Users\nfrol\Desktop\Prog.sln\4practos\4practos\4practos\bin\Debug\net6.0\4practos.pdb
+C:\Users\nfrol\Desktop\Prog.sln\4practos\4practos\4practos\obj\Debug\net6.0\4practos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nfrol\Desktop\Prog.sln\4practos\4practos\4practos\obj\Debug\net6.0\4practos.AssemblyInfoInputs.cache
+C:\Users\nfrol\Desktop\Prog.sln\4practos\4practos\4practos\obj\Debug\net6.0\4practos.AssemblyInfo.cs
+C:\Users\nfrol\Desktop\Prog.sln\4practos\4practos\4practos\obj\Debug\net6.0\4practos.csproj.CoreCompileInputs.cache
+C:\Users\nfrol\Desktop\Prog.sln\4practos\4practos\4practos\obj\Debug\net6.0\4practos.dll
+C:\Users\nfrol\Desktop\Prog.sln\4practos\4practos\4practos\obj\Debug\net6.0\refint\4practos.dll
+C:\Users\nfrol\Desktop\Prog.sln\4practos\4practos\4practos\obj\Debug\net6.0\4practos.pdb
+C:\Users\nfrol\Desktop\Prog.sln\4practos\4practos\4practos\obj\Debug\net6.0\4practos.genruntimeconfig.cache
+C:\Users\nfrol\Desktop\Prog.sln\4practos\4practos\4practos\obj\Debug\net6.0\ref\4practos.dll
